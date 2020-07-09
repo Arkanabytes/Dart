@@ -4,9 +4,7 @@ void main() {
     poder: 'Regeneración',
     nombre: 'Logan'
   );
-    
-  print( wolverine );
-  
+    print( wolverine );
 }
 
 class Heroe {
