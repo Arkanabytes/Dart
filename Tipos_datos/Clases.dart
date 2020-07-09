@@ -8,7 +8,6 @@ void main() {
 }
 
 class Heroe {
-  
   String nombre;
   String poder;
   
@@ -18,6 +17,5 @@ class Heroe {
 //   }
   
   Heroe({ this.nombre, this.poder });
-  
   String toString() => 'nombre: $nombre - poder: $poder';
 }
