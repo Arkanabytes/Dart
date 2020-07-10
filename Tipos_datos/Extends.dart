@@ -14,7 +14,6 @@ class Heroe extends Personaje {
   int valentia;
 
 }
-
 class Villano extends Personaje {
   int maldad;
 }
