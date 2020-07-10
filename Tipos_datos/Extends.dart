@@ -1,5 +1,4 @@
 void main() {
-  
   final superman = new Heroe();
   superman.nombre = 'Clark Kent';
   final luthor = new Villano();
@@ -10,6 +9,7 @@ abstract class Personaje {
   String poder;
   String nombre;
 }
+
 class Heroe extends Personaje { 	
   int valentia;
 
