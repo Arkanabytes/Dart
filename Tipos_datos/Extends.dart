@@ -2,7 +2,6 @@ void main() {
   
   final superman = new Heroe();
   superman.nombre = 'Clark Kent';
-  
   final luthor = new Villano();
   luthor.nombre  = 'Lex Luthor';
   
