@@ -10,8 +10,6 @@ abstract class Personaje {
   String poder;
   String nombre;
 }
-
-
 class Heroe extends Personaje { 	
   int valentia;
 
