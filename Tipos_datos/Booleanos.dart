@@ -1,3 +1,5 @@
+//Arkanabytes//
+
 void main(){
   //valores booleanos y declaraciones sencillas
   bool activado = true;
