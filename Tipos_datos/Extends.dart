@@ -6,12 +6,10 @@ void main() {
   final luthor = new Villano();
   luthor.nombre  = 'Lex Luthor';  
 }
-
 abstract class Personaje {
   String poder;
   String nombre;
 }
-
 class Heroe extends Personaje { 	
   int valentia;
 
