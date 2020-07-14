@@ -1,7 +1,6 @@
 //Arkanabytes//
 
 void main(){
-  
   /*tres tipos de versiones */
   
   // print('Hola mundo');
