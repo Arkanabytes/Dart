@@ -8,7 +8,6 @@
  //-Maps
   
 void main(){
-  
   //Añado valores tipo number
   var number = 12;
   var double1 = 15.83;
