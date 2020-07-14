@@ -13,3 +13,15 @@ void main(){
     } 
 }
 
+
+//NUMEROS PARES//
+//FOR LOOPS//
+void main(){
+  
+  for(var i=0; i<5; i++ ){
+    if(i%2==0){
+    print("Iteraccion numero $i");
+    
+   }
+  }
+}
