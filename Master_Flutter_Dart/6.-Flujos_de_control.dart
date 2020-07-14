@@ -9,7 +9,6 @@
 void main(){
   
     bool esFlutterGenial = false;
-  
   //evaluamos la condicion 
     if(esFlutterGenial == true){
       print("Si es genial");
