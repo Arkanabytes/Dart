@@ -6,7 +6,6 @@
  //- For Loops
  //- While
 
-
 //WHILES//
 void main(){
   
