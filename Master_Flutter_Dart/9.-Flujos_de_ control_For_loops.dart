@@ -4,7 +4,6 @@
  //- For Loops
  //- While
 
-
 //FOR LOOPS//
 void main(){
   
@@ -12,7 +11,6 @@ void main(){
     print("Iteraccion numero $i");
     } 
 }
-
 
 //NUMEROS PARES//
 //FOR LOOPS//
