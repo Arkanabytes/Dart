@@ -8,9 +8,7 @@
  //- >= mayor igual 
  //- =< menor igual
 
-void main(){
-  
-  
+void main(){  
 int numero1 = 20;
 int numero2 = 12;
   
