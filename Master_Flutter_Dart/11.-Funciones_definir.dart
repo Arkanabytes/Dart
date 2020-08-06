@@ -11,7 +11,6 @@ String saludos(String nombre){
   return mensaje;
 }
 
-
 //ejemlo mas sencillo
 /*void main(){
   saludos ("Rodrigo");
