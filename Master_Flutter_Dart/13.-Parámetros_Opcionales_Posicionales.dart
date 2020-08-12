@@ -1,5 +1,6 @@
 /*Arkana*/
 //parametros opcionales y posicionales
+
 void main(){
   saludos("ALEJANDRA", "Pinto", 30);
 }
