@@ -16,5 +16,4 @@ void saludos([String nombre= "Anonymous", String apellido = ""]){
     }
     print(saludos.toString());
    }
-
 //simplica y no hay que enviar parametros nulos
