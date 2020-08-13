@@ -20,8 +20,7 @@ void main(){
   auto.color = "Rojo";
   auto.marca = "Ford";
   auto.Arrancar();
-  
-
+ 
   auto.CambiarValor(auto);
   auto.Arrancar();
  
