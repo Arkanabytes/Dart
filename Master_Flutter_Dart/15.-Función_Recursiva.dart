@@ -1,4 +1,4 @@
-/*Arkanabytes*
+/*Arkanabytes*/
 
 //funcion recursiva 4*3*2*1
 //multiplicamos por el numero anterior
