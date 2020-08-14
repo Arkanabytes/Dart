@@ -1,5 +1,6 @@
 /*Arkana*/
 
+/*creacion de clases y ejemplos de constructores*/
 class Vehiculo{
   String color;
   String modelo;
