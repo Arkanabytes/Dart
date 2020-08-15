@@ -1,5 +1,6 @@
 /*Arkana*/
 
+// creacion de clases y metodos
 class Vehiculo{
   String color;
   String modelo;
