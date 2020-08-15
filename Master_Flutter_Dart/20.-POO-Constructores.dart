@@ -25,6 +25,5 @@ class Vehiculo{
 
 void main(){
   var auto = new Vehiculo("Ford","Focus");
-  
   auto.Arrancar();
 }
