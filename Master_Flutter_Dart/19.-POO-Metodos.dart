@@ -31,5 +31,4 @@ void main(){
   auto.CambiarValor(auto);
   auto.Arrancar();
   auto.Acelerar(10);
- 
 }
