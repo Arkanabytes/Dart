@@ -28,7 +28,6 @@ void main(){
   auto.marca = "Ford";
   auto.Arrancar();
   
-
   auto.CambiarValor(auto);
   auto.Arrancar();
   auto.Acelerar(10);
