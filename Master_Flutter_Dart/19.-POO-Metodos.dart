@@ -18,7 +18,6 @@ class Vehiculo{
   void CambiarValor(Vehiculo vehiculo){
     vehiculo.marca ="Mazda";
   }
-  
 }
 
 void main(){
