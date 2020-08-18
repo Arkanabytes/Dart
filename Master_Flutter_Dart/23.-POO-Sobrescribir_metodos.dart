@@ -7,7 +7,7 @@ class Vehiculo{
   
   void QueVehiculoSoy(){
     print("Marca $marca, Modelo $modelo, color: $color");
-    } 
+   } 
 }
 
 void QueVehiculoSoy(){
