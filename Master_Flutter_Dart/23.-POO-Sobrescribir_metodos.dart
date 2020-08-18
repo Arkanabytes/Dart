@@ -18,7 +18,6 @@ class Camion extends Vehiculo{
   @override
   void QueVehiculoSoy(){
     print("Soy un Camion");
-    
   }
 }
 
