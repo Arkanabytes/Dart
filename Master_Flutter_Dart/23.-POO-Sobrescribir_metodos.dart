@@ -1,5 +1,6 @@
 /*Arkanabytes*/
 
+//sobrescribir metodos
 class Vehiculo{
   String color;
   String modelo;
