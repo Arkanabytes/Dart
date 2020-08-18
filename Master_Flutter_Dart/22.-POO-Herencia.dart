@@ -21,7 +21,6 @@ void main(){
   camion.color = "Blanco";
   camion.color = "Truck";
   camion.color = "Volvo";
-  
   camion.MostrarVehiculo();
   
    var auto = new Auto();
