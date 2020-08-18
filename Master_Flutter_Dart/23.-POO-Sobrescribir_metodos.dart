@@ -35,5 +35,5 @@ void main(){
   camion.color = "Rojo";
   camion.color = "Forcus";
   camion.color = "Ford";
-  auto.QueVehiculoSoy(); 
+  auto.QueVehiculoSoy(); //constr
 }
