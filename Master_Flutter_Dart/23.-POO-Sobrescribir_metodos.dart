@@ -29,11 +29,11 @@ void main(){
   camion.color = "Blanco";
   camion.color = "Truck";
   camion.color = "Volvo";
-  camion.QueVehiculoSoy();
+  camion.QueVehiculoSoy(); //constr
   
   var auto = new Auto();
   camion.color = "Rojo";
   camion.color = "Forcus";
   camion.color = "Ford";
-  auto.QueVehiculoSoy();
+  auto.QueVehiculoSoy(); 
 }
