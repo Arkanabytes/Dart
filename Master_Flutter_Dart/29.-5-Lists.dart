@@ -33,5 +33,4 @@ void main(){
   for(var x in listPersonas){
     print(x.nombre);
   }
-  
 }
