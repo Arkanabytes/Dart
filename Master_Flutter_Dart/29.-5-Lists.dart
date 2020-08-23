@@ -1,5 +1,6 @@
 /*Arkanabytes*/
 
+/*listas con dart*/
 class Persona{
   String nombre;
 }
