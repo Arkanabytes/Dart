@@ -7,6 +7,14 @@ abstract class Vehiculo{
 class Camion extends Vehiculo{
   
 }
+
+class Auto extends Vehiculo{
+  
+}
+
+class Moto extends Vehiculo{
+  
+}
 void main(){
   var camion = new Camion();
   camion.color = "Rojo";
