@@ -29,5 +29,8 @@ void main(){
   var camion = new Camion();
   var auto = new Auto();
   var moto = new Moto();
-  camion.color = "Rojo";
+  camion.miCombustible();
+  auto.miCombustible();
+  moto.miCombustible();
+//  camion.color = "Rojo";
 }
