@@ -14,6 +14,9 @@ class Camion extends Vehiculo implements EsTransporte{
     print("Diesel");
   }
   
+  void QueTransporteSoy(){
+    print("Soy un camion");
+  }
 }
 
 class Auto extends Vehiculo{
