@@ -25,7 +25,6 @@ class Auto extends Vehiculo{
   void miCombustible(){
     print("Gasolina");
   }
-  
 }
 
 class Moto extends Vehiculo{
