@@ -35,11 +35,6 @@ class Moto extends Vehiculo{
   
 }
 void main(){
-  var camion = new Camion();
-  var auto = new Auto();
-  var moto = new Moto();
-  camion.miCombustible();
-  auto.miCombustible();
-  moto.miCombustible();
-//  camion.color = "Rojo";
+  EsTransporte camion = new Camion();
+  camion.QueTransporteSoy();
 }
