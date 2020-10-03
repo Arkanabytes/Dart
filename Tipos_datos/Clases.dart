@@ -1,6 +1,5 @@
 /*Arkanabytes*/
 void main() {
-  
   final wolverine = new Heroe( 
     poder: 'Regeneración',
     nombre: 'Logan'
