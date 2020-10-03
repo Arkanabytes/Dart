@@ -15,7 +15,6 @@ class Heroe {
 //     this.nombre = nombre;
 //     this.poder  = poder; 
 //   }
-  
   Heroe({ this.nombre, this.poder });
   String toString() => 'nombre: $nombre - poder: $poder';
 }
