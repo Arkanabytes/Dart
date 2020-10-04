@@ -9,8 +9,7 @@ void main() {
   
 }
 
-class Heroe {
-  
+class Heroe { 
   String nombre;
   String poder;
   
