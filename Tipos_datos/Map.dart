@@ -3,7 +3,6 @@
 void main(){
   
   String propiedad = 'soltero';
-  
   Map<String, dynamic> persona = {
     'nombre': 'Carlos',
     'edad'  :  32,
