@@ -7,7 +7,7 @@ void main(){
   numeros.add(6); // añado un seis
   print(numeros);
   
-//numeros.add('Hola mundo'); // añado un seis
+  //numeros.add('Hola mundo'); // añado un seis
   //print(numeros);
   
   //Tamaño fijo
