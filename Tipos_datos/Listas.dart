@@ -12,7 +12,7 @@ void main(){
   //Tamaño fijo
   List masNumeros = List(10);
   print( masNumeros );
- // masNumeros.add(1); //no es correcta esta linea
+  // masNumeros.add(1); //no es correcta esta linea
   masNumeros[0] = 1; //asignamos un uno a la primera posicion 
   print(masNumeros);
 }
