@@ -21,5 +21,4 @@ void main(){
   personas.addAll( { 4: 'banner' } );
   print(personas);
   print(personas[2]);
-  
 }
