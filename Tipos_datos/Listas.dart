@@ -9,7 +9,6 @@ void main(){
   
   //numeros.add('Hola mundo'); // añado un seis
   //print(numeros);
-  
   //Tamaño fijo
   List masNumeros = List(10);
   print( masNumeros );
