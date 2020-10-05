@@ -4,7 +4,6 @@ void main(){
  List<int> numeros = [1,2,3,4,5]; //colecion de informacion que tienen cosas en comun.
   //<int> es una lista de solo enteros
  print(numeros);
-  
   numeros.add(6); // añado un seis
   print(numeros);
   
