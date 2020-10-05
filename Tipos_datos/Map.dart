@@ -8,7 +8,6 @@ void main(){
     'edad'  :  32,
     'soltero': true
   };
-  
   print(persona['nombre']);
   print(persona['edad']);
   print(persona[propiedad]);
