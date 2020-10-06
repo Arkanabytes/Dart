@@ -13,7 +13,6 @@ class Cuadrado {
      if ( valor <= 0 ) {
       throw('El lado no puede ser menor o igual a 0');
     }
-    
     _lado = valor; 
   }
   
