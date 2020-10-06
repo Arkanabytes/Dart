@@ -1,7 +1,6 @@
 //Arkanabytes//
 
 void main() {
-  
   final cuadrado = new Cuadrado();
   cuadrado.lado = 10;
   print( cuadrado );
