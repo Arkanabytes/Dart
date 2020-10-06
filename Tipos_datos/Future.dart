@@ -4,8 +4,7 @@ void main() {
 	print('Estamos a punto de pedir datos');
   httpGet('https://api.nasa.com/aliens').then( (data) {
     
-    print( data );
-    
+    print( data ); 
   });  
   print('Ultima línea');
 }
