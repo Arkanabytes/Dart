@@ -5,7 +5,6 @@ void main() {
   cuadrado.lado = 10;
   print( cuadrado );
   print( 'área: ${ cuadrado.area }' );
-  
 }
 class Cuadrado {
   double _lado;
