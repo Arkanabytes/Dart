@@ -24,5 +24,4 @@ class Cuadrado {
   
   double get area => _lado * _lado;
   toString() => 'Lado: $_lado';
-  
 }
