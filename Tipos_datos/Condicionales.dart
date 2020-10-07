@@ -6,8 +6,7 @@ void main(){
 //  activado = !activado // si activado es true lo transformara a falso cambio de valor
     
   if(activado){
-    print('El motor esta funcionando');
-    
+    print('El motor esta funcionando'); 
   } else{
     print('Desactivado');
   }
